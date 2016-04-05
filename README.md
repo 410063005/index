@@ -18,5 +18,7 @@
 
 [深入浅出RxJava](http://blog.csdn.net/lzyzsd/article/details/41833541)
 
+[RxJava from gitbook](https://asce1885.gitbooks.io/android-rd-senior-advanced/content/che_di_le_jie_rxjava_ff08_yi_ff09_ji_chu_zhi_shi.html)
+
 ## Regre正则表达式
 '.'可以用于匹配换行符之外的所有字符，Java中可使用`Pattern.DOTALL`以匹配所有字符
