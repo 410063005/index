@@ -1,4 +1,10 @@
 这里记录了一些不错的资源
+# [A](#)
+## Android Studio
+
+插件
+
+[有什么好用的Android Studio的插件值得推荐](http://www.zhihu.com/question/28026027)
 
 # [G](#)
 
@@ -7,6 +13,10 @@
 插件
 
 [Gradle Retrolambda Plugin](https://github.com/evant/gradle-retrolambda)
+
+# [O](#)
+## OkHttp
+[OkHttp使用教程](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0106/2275.html)
 
 # [P](#)
 
@@ -22,3 +32,8 @@
 
 ## Regre正则表达式
 '.'可以用于匹配换行符之外的所有字符，Java中可使用`Pattern.DOTALL`以匹配所有字符
+
+[java.util.regex.Pattern](http://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html)
+
+# [V](#)
+## Vim
