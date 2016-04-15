@@ -1,3 +1,7 @@
+# Issue
+[EditText光标消失了](http://stackoverflow.com/questions/11523494/change-the-color-of-the-cursor-of-an-edittext-in-android-across-all-the-sdk) [#](http://stackoverflow.com/questions/21397977/android-edit-text-cursor-is-not-visible) 
+[Can't compress a recycled bitmap](http://stackoverflow.com/questions/24716694/cant-compress-a-recycled-bitmap)
+
 # ListView
 [为什么ListView的背景变成黑色了](http://sunmoonblog.farbox.com/post/2016-04-13-list-is-black)
 
