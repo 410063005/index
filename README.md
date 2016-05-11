@@ -8,6 +8,11 @@
 
 # [G](#)
 
+## Genymotion
+[Access host from Genymotion emulator](http://stackoverflow.com/questions/18463319/access-host-from-genymotion-emulator): 通过`10.0.3.2`访问host
+
+genymotion emulator(Android 6.0)上禁止SD卡权限后app直接crash
+
 ## Gradle
 
 插件
