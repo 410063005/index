@@ -1,5 +1,8 @@
 这里记录了一些不错的资源
 # [A](#)
+## Adb
+[解决5037端口被占用adb无法连接的问题](http://www.tuicool.com/articles/VJFZn2M)
+
 ## Android Studio
 
 插件
