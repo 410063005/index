@@ -19,6 +19,13 @@ genymotion emulator(Android 6.0)上禁止SD卡权限后app直接crash
 ## Git
 [git pull自动输入密码](http://www.cnblogs.com/dudu/archive/2011/07/06/git_save_username_password.html)
 
+msygit安装或卸载右键菜单 
+
+```
+D:\king\Git\git-cheetah>regsvr32 /i git_shell_ext64.dll
+D:\king\Git\git-cheetah>regsvr32 /u git_shell_ext64.dll
+```
+
 ## Gradle
 
 插件
