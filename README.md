@@ -3,6 +3,8 @@
 ## Adb
 [解决5037端口被占用adb无法连接的问题](http://www.tuicool.com/articles/VJFZn2M)
 
+[adb server version (31) doesn't match this client (36); killing...](http://blog.csdn.net/rodulf/article/details/51939974)
+
 ## Android Studio
 
 插件
