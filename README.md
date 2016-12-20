@@ -1,8 +1,7 @@
 这里记录了一些不错的资源
 # [A](#)
 ## Adb
-[解决5037端口被占用adb无法连接的问题](http://www.tuicool.com/articles/VJFZn2M)
-
+[解决5037端口被占用adb无法连接的问题](http://www.tuicool.com/articles/VJFZn2M) 
 [adb server version (31) doesn't match this client (36); killing...](http://blog.csdn.net/rodulf/article/details/51939974)
 
 ## Android Studio
@@ -14,13 +13,11 @@
 # [G](#)
 
 ## Genymotion
-[Access host from Genymotion emulator](http://stackoverflow.com/questions/18463319/access-host-from-genymotion-emulator): 通过`10.0.3.2`访问host
-
+[Access host from Genymotion emulator](http://stackoverflow.com/questions/18463319/access-host-from-genymotion-emulator): 通过`10.0.3.2`访问host 
 genymotion emulator(Android 6.0)上禁止SD卡权限后app直接crash
 
 ## Git
-[git pull自动输入密码](http://www.cnblogs.com/dudu/archive/2011/07/06/git_save_username_password.html)
-
+[git pull自动输入密码](http://www.cnblogs.com/dudu/archive/2011/07/06/git_save_username_password.html) 
 `git log --all --grep='Build 0051'` 根据git log搜索
 
 msygit安装或卸载右键菜单 
@@ -44,12 +41,9 @@ D:\king\Git\git-cheetah>regsvr32 /u git_shell_ext64.dll
 
 # [R](#)
 ## RxJava
-[我们为什么要在Android中使用RxJava](http://www.imooc.com/article/3936)
-
-[RxJava](https://medium.com/swlh/party-tricks-with-rxjava-rxandroid-retrolambda-1b06ed7cd29c#.tqop78uai)
-
-[深入浅出RxJava](http://blog.csdn.net/lzyzsd/article/details/41833541)
-
+[我们为什么要在Android中使用RxJava](http://www.imooc.com/article/3936) 
+[RxJava](https://medium.com/swlh/party-tricks-with-rxjava-rxandroid-retrolambda-1b06ed7cd29c#.tqop78uai) 
+[深入浅出RxJava](http://blog.csdn.net/lzyzsd/article/details/41833541) 
 [RxJava from gitbook](https://asce1885.gitbooks.io/android-rd-senior-advanced/content/che_di_le_jie_rxjava_ff08_yi_ff09_ji_chu_zhi_shi.html)
 
 ## Regre正则表达式
