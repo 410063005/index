@@ -27,6 +27,8 @@ D:\king\Git\git-cheetah>regsvr32 /i git_shell_ext64.dll
 D:\king\Git\git-cheetah>regsvr32 /u git_shell_ext64.dll
 ```
 
+[git或cmd代理](http://jerrychia.com/2015/03/30/hexo-how-to-set-http-proxy/)
+
 ## Gradle
 
 插件
