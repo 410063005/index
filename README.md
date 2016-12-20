@@ -27,7 +27,8 @@ D:\king\Git\git-cheetah>regsvr32 /i git_shell_ext64.dll
 D:\king\Git\git-cheetah>regsvr32 /u git_shell_ext64.dll
 ```
 
-[git或cmd代理](http://jerrychia.com/2015/03/30/hexo-how-to-set-http-proxy/)
+[git或cmd代理](http://jerrychia.com/2015/03/30/hexo-how-to-set-http-proxy/)  
+[git远程仓库](https://git-scm.com/book/zh/v1/Git-%E5%9F%BA%E7%A1%80-%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8)
 
 ## Gradle
 
