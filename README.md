@@ -36,6 +36,9 @@ D:\king\Git\git-cheetah>regsvr32 /u git_shell_ext64.dll
 
 [Gradle Retrolambda Plugin](https://github.com/evant/gradle-retrolambda)
 
+## Maven
+Maven国内镜像 [maven阿里云中央仓库](http://maven.aliyun.com/nexus/content/groups/public/)
+
 # [O](#)
 ## OkHttp
 [OkHttp使用教程](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0106/2275.html)
