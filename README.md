@@ -38,6 +38,7 @@ D:\king\Git\git-cheetah>regsvr32 /u git_shell_ext64.dll
 
 [Gradle Retrolambda Plugin](https://github.com/evant/gradle-retrolambda)
 
+[打开Gradle工程慢的问题](http://blog.csdn.net/fuchaosz/article/details/51567808)
 ## Maven
 Maven国内镜像 [maven阿里云中央仓库](http://maven.aliyun.com/nexus/content/groups/public/)
 
