@@ -32,6 +32,13 @@ D:\king\Git\git-cheetah>regsvr32 /u git_shell_ext64.dll
 [git子模块](https://git-scm.com/book/zh/v2/Git-%E5%B7%A5%E5%85%B7-%E5%AD%90%E6%A8%A1%E5%9D%97)
 [git子模块](https://erttyy8821.gitbooks.io/android_memo/content/chapter1/SubmoduleAndModules.html)
 
+git pull失败时可用以下命令强制使用远程代码
+
+```
+git fetch --all
+git reset --hard origin/master
+```
+
 ## Gradle
 
 插件
