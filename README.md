@@ -39,6 +39,11 @@ git fetch --all
 git reset --hard origin/master
 ```
 
+git rebase
+
+[简介](http://blog.csdn.net/hudashi/article/details/7664631/)
+[用法](http://blog.csdn.net/wangjia55/article/details/8490679)
+
 ## Gradle
 
 插件
