@@ -51,6 +51,9 @@ git rebase
 [Gradle Retrolambda Plugin](https://github.com/evant/gradle-retrolambda)
 
 [打开Gradle工程慢的问题](http://blog.csdn.net/fuchaosz/article/details/51567808)
+
+[Speeding Up Your Android Gradle Builds (Google I/O ‘17)](https://www.youtube.com/watch?v=7ll-rkLCtyk&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp&index=31)
+
 ## Maven
 Maven国内镜像 [maven阿里云中央仓库](http://maven.aliyun.com/nexus/content/groups/public/)
 
