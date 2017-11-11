@@ -6,6 +6,15 @@
 
 ## Android Studio
 
+## aapt
+`aapt dump badging <apk>` 导出apk的信息，包括包名、版本、权限等等。
+
+./bin/aapt dump badging Downloads/smoba.apk
+package: name='com.tencent.gamehelper.smoba' versionCode='170101801' versionName='2.3.2.1018' platformBuildVersionName='7.1.1'
+install-location:'auto'
+sdkVersion:'16'
+
+
 插件
 
 [有什么好用的Android Studio的插件值得推荐](http://www.zhihu.com/question/28026027)
