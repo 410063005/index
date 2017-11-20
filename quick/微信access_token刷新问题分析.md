@@ -40,4 +40,11 @@
 安装postman interceptor后成功模拟换票了.
 
 # 复现问题
-复现有两个方法：一是等两个小时直到accessToken过期，二是强制刷新accessToken但同时保证访问接口时不要带上这个最新的accessToken
+复现有两个方法：一是等两个小时直到accessToken过期，二是强制刷新accessToken但同时保证访问接口时不要带上这个最新的accessToken。
+
+实际验证时发现第二种方法不可行，短时间内请求accessToken时总是返回同一个值。
+
+
+====
+
+https://wohugb.gitbooks.io/wechat/content/qrconnent/refresh_token.html
