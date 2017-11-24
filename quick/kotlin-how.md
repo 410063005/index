@@ -34,3 +34,6 @@ demo.ExampleKt.bar();
 # how to use kotlin android extensions
 
 [ref](https://antonioleiva.com/kotlin-android-extensions/)
+
+# 构造方法
+没完全弄懂

@@ -63,6 +63,8 @@ git rebase
 
 [Speeding Up Your Android Gradle Builds (Google I/O ‘17)](https://www.youtube.com/watch?v=7ll-rkLCtyk&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp&index=31)
 
+[Gradle各module统一依赖库](https://gist.github.com/zhEdward/c58e9eef07563963b135f036787c0e5d)
+
 ## Maven
 Maven国内镜像 [maven阿里云中央仓库](http://maven.aliyun.com/nexus/content/groups/public/)
 

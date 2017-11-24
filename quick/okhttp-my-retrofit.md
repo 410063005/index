@@ -16,3 +16,6 @@ http://www.jianshu.com/p/d878daad0fbd
 
 
 https://stackoverflow.com/questions/24562716/how-to-retry-http-requests-with-okhttp-retrofit
+
+
+https://github.com/square/retrofit/blob/master/samples/src/main/java/com/example/retrofit/RxJavaObserveOnMainThread.java
